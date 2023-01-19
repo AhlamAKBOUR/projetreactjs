@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.custombutton {
+  border: 1px solid blue;
+  background-color: aquamarine;
+}
